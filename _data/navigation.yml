@@ -15,10 +15,41 @@ header:
 sidebar-memorials:
   - title:      Memorials
     children:
-      - title: Afolabí
+      - title: Paula Alfonso, Adékolá
+        url:    /memorials/adekola.html
+
+      - title: Clay Keck, Afolabí
         url:    /memorials/afolabi.html
-      - title: Babá Ladé
+
+      - title: Fína Víla, Alábunmí
+        url:    /memorials/alabunmi.html
+
+      - title: Joy Reznik, Awoyo Adé
+        url:    /memorials/awoyoade.html
+
+      - title: Jackye Anderson, Babá Ladé
         url:    /memorials/babalade.html
+
+      - title: Kevyn Allen, Odofemí
+        url:    /memorials/odofemi.html
+
+      - title: Adela (La China) Alonso, Oduanlá
+        url:    /memorials/oduanla_adela.html
+
+      - title: Holly Antrim, Odúanla
+        url:    /memorials/oduanla_holly.html
+
+      - title: Carrie “Hoop” Hoopengarner, Oshún Widé
+        url:    /memorials/oshunwide.html
+
+      - title: Rigoberto Rodriguez Duque, Oshúnyemí
+        url:    /memorials/oshunyemi.html
+
+      - title: Arabia Oviedo, Shango Bi
+        url:    /memorials/shangobi.html
+
+      - title: Kerry Daniels, Sokúnlosomí
+        url:    /memorials/sokunlosomi.html
 
 sidebar-orishas:
   - title:      Orishas
