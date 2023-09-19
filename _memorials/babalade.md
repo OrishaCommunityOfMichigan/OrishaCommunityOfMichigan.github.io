@@ -25,7 +25,7 @@ Ordained March 5th, 1994 in Kendal, Florida by **Sandra Leon, Omidára**, [_Oni 
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
   <div class="swiper__wrapper">
-    <div class="swiper__slide"><center><img class="image image--md" src="babalade/46794915_2100276086938460_4183699206055133184_n.jpg"/><p>Jackye with KC. KC was Corey's dog.</p></center></div>
+    <div class="swiper__slide"><center><img class="image image--md" src="babalade/46794915_2100276086938460_4183699206055133184_n.jpg"/><p>Jackye with Ginger the dog at Andrew's house during his 3 month ebo ceremony.</p></center></div>
     <div class="swiper__slide"><center><img class="image image--md" src="babalade/46929621_2100276063605129_3164011491095478272_n.jpg"/></center></div>
     <div class="swiper__slide"><center><img class="image image--md" src="babalade/47041350_2100276100271792_3987977413232427008_n.jpg"/></center></div>
     <div class="swiper__slide"><center><img class="image image--md" src="babalade/46762892_2100276206938448_5657366287051915264_n.jpg"/><p>Eshudina, Omilana, Babafemi, Efufulele and their Godmother Babalade.</p></center></div>
