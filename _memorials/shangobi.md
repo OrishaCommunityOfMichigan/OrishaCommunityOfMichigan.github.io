@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Arabia Oviedo, Shango Bi
+title: Aracelia "Arabia" Oviedo, Shango Bi
 permalink: /memorials/shangobi.html
 key: memorials
 sidebar:
