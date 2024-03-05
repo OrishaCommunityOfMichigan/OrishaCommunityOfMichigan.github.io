@@ -100,3 +100,4 @@ Ordained March 5th, 1994 in Kendal, Florida by **Sandra Leon, Omidára**, [_Oni 
     $('.swiper-demo--4').swiper({ animation: false });
   });
 </script>
+

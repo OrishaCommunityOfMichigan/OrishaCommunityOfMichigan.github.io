@@ -21,6 +21,7 @@ sidebar:
 
 
 
+
 <script>
   {%- include scripts/lib/swiper.js -%}
   var SOURCES = window.TEXT_VARIABLES.sources;
