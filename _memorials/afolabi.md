@@ -21,6 +21,15 @@ Ordained November 9th, 1989 in Kendal, Florida by **Sandra Leon, Omidára** [_On
 ([information source](https://www.facebook.com/groups/orishacommunityofmichigan/permalink/318385218757324))
 
 
+
+
+**LIKES:**
+- Shrimp fried rice
+- Chocolate
+- Wizard of Oz
+
+
+
 ---
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
@@ -33,18 +42,7 @@ Ordained November 9th, 1989 in Kendal, Florida by **Sandra Leon, Omidára** [_On
     <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/45818928_2267484956805297_8143675695965405184_n.jpg"/></center></div>
     <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/45984835_2267484963471963_7868558185680863232_n.jpg"/></center></div>
     <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/46759399_2100009490298453_6245879765559934976_n.jpeg"/> <p>Afolabi, ibae, and Iyalorisha Tita Sardinia</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras1.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras2.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras3.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras4.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras5.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras6.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras7.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras8.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras9.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/honras10.jpg"/> <p>Kev's Honras and breakfast ceremony</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/Kev_Honras_throne.jpg"/> <p>Afolabi, ibae, Honras throne</p></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/Jackye_Kevin_Carrie.jpg"/> <p>Jackye, ibae, Kevin, ibae, Carrie, ibae</p></center></div>
+    <div class="swiper__slide"><center><img  class="image image--md" src="afolabi/clay.jpg"/> <p></p></center></div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
