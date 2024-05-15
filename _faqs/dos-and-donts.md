@@ -34,5 +34,3 @@ DOs
 – Observe and respect the Orishas in nature, check the Orisha pages for where.
 
 – Find and get involved in your local community, check out the calendar if you are local to Michigan or contact us for help you connect with someone in your area.
-
-– Buy cool things made by legit priests. [Here](https://www.jujusquare.com/) is a safe space to buy awesome things that are appropriate to own without getting it from your Godparent.
